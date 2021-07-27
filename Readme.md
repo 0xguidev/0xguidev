@@ -1,7 +1,5 @@
-AUTOR: Guilherme vinicius de Paula
-DATE: 02/05/2021
-
-Diretorio onde ficará armazenado projetos de estudos paralelos ao curso da trybe. Como videoaulas, chalenges de outros sites. conteúdos de propriedade intelectual de terceiros ou meu.
-
-a finalidade desse diretorio apenas o amazenamento dos meus estudos.
-e referencias de sites
+ <div>
+  <a href="https://github.com/0xguidev">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=0xguidev&show_icons=true&theme=gruvbox&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=0xguidev&layout=compact&langs_count=7&theme=gruvbox"/>
+</div>
