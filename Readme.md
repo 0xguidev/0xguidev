@@ -7,7 +7,7 @@
    
   ### Experiencias
   
-  - [X] Estudante de desenvolvimento web fullstack na trybe
+  - [X] Desenvolvimento web fullstack na trybe
   - [X] Experiencia como desenvolvedor flutter
   - [X] Experiencia como desenvolvedor Frontend Js css html shopify e vtex
   
