@@ -1,21 +1,3 @@
- <div>
-  <h1>Guilherme Vinicius de Paula</h1>
-  <h2>Programador FullStack</h2>
-  <p>Sou mineiro, e atualmente moro em Florianópolis. Um eterno estudante de desenvolvimento, tanto web como mobile, Tenho experiencia como Associate developer onde trabalhei principalmente com flutter. </p>
-  <p>Aqui no meu github você encontra os projetos que já fiz como estudo, as tecnologias que estudei no meu portfólio logo a baixo.</p>
-   <ul>
-   
-  ### Experiencias
-  
-  - [X] Desenvolvimento web fullstack na trybe
-  - [X] Experiencia como desenvolvedor flutter
-  - [X] Experiencia como desenvolvedor Frontend Js css html shopify e vtex
-  
-  <br/>
-  <li>&#127871 Meus hobbys sao ver videos de curiosidades na internet e passar raiva jogando online</li>
-  <li>&#127891 Gosto muito de estudar, continuo estudando desenvolvimento web e também estudo desenvolvimento mobile.</li>
-  <li>&#128640 Ao infinito e além!</li>
-  </ul>
   <a href="https://github.com/0xguidev">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=0xguidev&show_icons=true&theme=gruvbox&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=0xguidev&layout=compact&langs_count=7&theme=gruvbox"/>
